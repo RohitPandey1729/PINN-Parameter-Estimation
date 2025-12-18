@@ -1,8 +1,6 @@
 # Physics-Informed Parameter Estimation for Model Rockets
 
-**Team:** Astra - TARC 2025
-
-**Authors:** Rohan & Brother
+**Authors:** Rohan & Rohit
 
 ## Overview
 
@@ -179,7 +177,7 @@ If you use this code, please cite:
 @article{astra2025param,
   title={Physics-Informed Parameter Estimation for Model Rockets: 
          Learning from Flight Data When Simulations Fail},
-  author={Team Astra},
+  author={P. Rohan, P. Rohit},
   year={2025},
   note={TARC Competition 2025}
 }
